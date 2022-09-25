@@ -24,6 +24,9 @@
 ### Reset Password
 <img src="https://i.ibb.co/QCM1j2J/Captura-de-Pantalla-2022-09-24-a-la-s-9-18-18-p-m.png" alt="Captura-de-Pantalla-2022-09-24-a-la-s-9-18-18-p-m" border="0">
 
+<img src="https://i.ibb.co/rMH4rVJ/Captura-de-Pantalla-2022-09-25-a-la-s-12-25-08-a-m.png" alt="Captura-de-Pantalla-2022-09-25-a-la-s-12-25-08-a-m" border="0">
+
+
 ### Dockerfile for test the theme with disable cache 
 
 ```
