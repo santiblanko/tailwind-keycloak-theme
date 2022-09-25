@@ -1,5 +1,19 @@
-# tailwind-keycloak-theme
-tailwindUI + keycloak = awesome theme.
+# tailwindUI + keycloak 
+
+### Styled Pages
+- Login
+- Login Config TOTP
+- Login IDP Link Confirm
+- Login OTP
+- Login Reset Password
+- Login Update Password
+- Login Update Profile
+- Register
+- Social Media Icons
+ - Facebook
+ - GitHub
+ - Google
+ - Twitter
 
 ### Login
 <img src="https://i.ibb.co/yVr29kp/Captura-de-Pantalla-2022-09-24-a-la-s-9-15-02-p-m.png" alt="Captura-de-Pantalla-2022-09-24-a-la-s-9-15-02-p-m" border="0" />
