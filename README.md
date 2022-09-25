@@ -37,3 +37,11 @@ RUN sed -i -E "s/(<staticMaxAge>)2592000(<\/staticMaxAge>)/\1\-1\2/" /opt/jboss/
 RUN sed -i -E "s/(<cacheThemes>)true(<\/cacheThemes>)/\1false\2/" /opt/jboss/keycloak/standalone/configuration/standalone-ha.xml
 RUN sed -i -E "s/(<cacheTemplates>)true(<\/cacheTemplates>)/\1false\2/" /opt/jboss/keycloak/standalone/configuration/standalone-ha.xml
 ```
+
+If this implementation looks great you can share a beer using [patreon](https://patreon.com/santiblanko?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator) or send me bitcoins.
+
+### Bitcoin direction: 
+31p39e3AtdEv8T2aU9y9D1XH9Wc5HEtRte
+
+I will be enormously grateful. :) Also I am available for capacitations, keycloak courses and projects!! 
+<b>Whatsapp :) +573233729549</b>
