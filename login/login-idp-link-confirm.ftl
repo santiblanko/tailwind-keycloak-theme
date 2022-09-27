@@ -5,7 +5,7 @@
     <#elseif section = "form">
 
 
-<div class="bg-white shadow sm:rounded-lg">
+<div class="bg-white shadow sm:rounded-lg" style="margin:20px">
   <div class="px-4 py-5 sm:p-6">
     <h3 class="text-lg font-medium leading-6 text-gray-900">User already exists</h3>
     <div class="mt-2 sm:flex sm:items-start sm:justify-between">
