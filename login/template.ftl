@@ -66,7 +66,8 @@
                 </div>
             </#if>
         <#if !(auth?has_content && auth.showUsername() && !auth.showResetCredentials())>
-            <#if displayRequiredFields>
+<!--
+         <#if displayRequiredFields>
                 <div class="${properties.kcContentWrapperClass!}">
                     <div class="${properties.kcLabelWrapperClass!} subtitle">
                         <span class="subtitle"><span class="required">*</span> ${msg("requiredFields")}</span>
@@ -78,6 +79,7 @@
             <#else>
                 <h1 id="kc-page-title"><#nested "header"></h1>
             </#if>
+-->
         <#else>
             <#if displayRequiredFields>
                 <div class="${properties.kcContentWrapperClass!}">
@@ -150,7 +152,6 @@
                   </div>
               </form>
           </#if>
-
           <#nested "socialProviders">
 
           <#if displayInfo>
