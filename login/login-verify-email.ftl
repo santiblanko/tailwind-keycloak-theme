@@ -13,7 +13,7 @@
 ${msg("emailVerifyInstruction2")}
 </p>
 <p>
-${msg("emailVerifyInstruction1",user.email)}
+${memailVerifyInstruction1sg("",user.email)}
 </p>
     </div>
     <div class="mt-5">
